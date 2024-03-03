@@ -1,8 +1,8 @@
 # practis calculatris 
 print ("*" * 12) 
-number_1 = float (input ("inter your number 1 :")).split() # --> split() for remove spaces and float for add any type number 
+number_1 = float (input ("inter your number 1 :")) 
 print ("*" * 12)
-number_2 = float (input ("inter your number 2 :")).split() 
+number_2 = float (input ("inter your number 2 :"))
 print ("*" * 12)
 relation = input ("inter your relation :") # relation + or - or ..
 
